@@ -1,6 +1,6 @@
 databases:
   - name: toy-app
-    databaseName: toy-app
+    databaseName: toyapp
     user: default 
     plan: free
 
